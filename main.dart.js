@@ -7804,7 +7804,7 @@ return A.a6($.Kj().WY("assets/data/evolution_data.csv"),$async$M2)
 case 7:m=b4
 n=J.o5(n,"tableString: "+A.h(m)+"\n\n")
 c=m
-l=A.ahQ(A.b([c],t.yH),!0,null,",",'"','"',"\r\n",!0,!0).U5(c,t.z)
+l=A.ahQ(A.b([c],t.yH),!0,null,",",'"','"',"\n",!0,!0).U5(c,t.z)
 n=J.o5(n,"tableData: "+A.h(l)+"\n\n")
 J.abv(l,0)
 n=J.o5(n,"tableDataExceptRow0: "+A.h(l)+"\n\n")
